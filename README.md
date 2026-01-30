@@ -1,6 +1,6 @@
 # Smart Resume
 
-A Java library for parsing resume files in multiple formats and generating vector data for language model integration.
+A Java library that parses resumes (Markdown, PDF, XML) and converts them into vector embeddings for LLM response templates.
 
 ## Features
 
@@ -10,7 +10,7 @@ A Java library for parsing resume files in multiple formats and generating vecto
 
 ## Requirements
 
-- JDK 17+
+- JDK 21+
 - Gradle 8+
 
 ## Installation

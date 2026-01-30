@@ -9,4 +9,4 @@ jobs:
         with:
           java-version: '21'
           distribution: 'temurin'
-      - run: ./mvnw verify
+      - run: ./gradlew build
